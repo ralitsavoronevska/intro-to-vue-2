@@ -1,1 +1,1 @@
-# intro-to-vue-2-vuemastery
+# intro-to-vue-2
